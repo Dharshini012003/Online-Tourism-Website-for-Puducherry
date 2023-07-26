@@ -1,0 +1,49 @@
+body {
+	padding-top: 50px;
+	color: #959595;
+	}
+	
+ h3, h4, h5, h6 {
+	color: white;
+	}
+	
+.feature {
+	background: rgb(42, 55, 15) linear-gradient(to bottom, rgb(84, 89, 75), rgb(92, 96, 85));
+	color: black;
+	}
+
+#feature-carousel {
+	min-height: 400px;
+	}
+
+#feature-carousel img {
+	margin: 0 auto;
+	}
+		
+.article-intro {
+    margin-bottom: 25px;
+}
+
+
+.footer-blurb {
+    padding: 30px 0;
+    background-color: yellowgreen;
+    color: black;
+}
+    
+.footer-blurb-item {
+    padding: 30px;
+    }
+ 
+.small-print {
+	background-color: #fff;
+	padding: 30px 0;
+}
+
+.feature,
+.page-intro,
+.article-intro,
+.footer-blurb,
+.small-print {
+	text-align: center;
+	}
